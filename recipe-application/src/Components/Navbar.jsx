@@ -34,15 +34,6 @@ const Navbar = () => {
                         <>
                             <li>
                                 <Link
-                                    to="/login"
-                                    className="flex items-center gap-2 bg-teal-700 text-white font-bold uppercase rounded-sm"
-                                    style={{ padding: "6px 12px" }}
-                                >
-                                    Login
-                                </Link>
-                            </li>
-                            <li>
-                                <Link
                                     to="/signup"
                                     className="flex items-center gap-2 bg-teal-700 text-white font-bold uppercase rounded-sm"
                                     style={{ padding: "6px 12px" }}
